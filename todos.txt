@@ -7,5 +7,4 @@ check
 correct
 test program
 work out
-pray
-go to office
+
